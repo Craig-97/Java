@@ -1,0 +1,151 @@
+Afghanistan	South Asia	652	26	0
+Albania	Europe	28	3	6
+Algeria	Middle East	2400	32	75
+Angola	Africa	1250	14	14
+Argentina	South America	2800	39	146
+Armenia	Europe	29	3	3
+Australia	Asia-Pacific	7700	20	546
+Austria	Europe	83	8	261
+Azerbaijan	Europe	86	8	0
+Bangladesh	South Asia	143	152	67
+Belarus	Europe	207	9	20
+Belgium	Europe	30	10	319
+Benin	Africa	112	7	3
+Bhutan	South Asia	38	2	1
+Bolivia	South America	1100	9	0
+Bosnia-Hercegovina	Europe	51	4	8
+Botswana	Africa	581	1	7
+Brazil	South America	8550	182	564
+Bulgaria	Europe	110	7	21
+Burkina Faso	Africa	274	13	4
+Burma	Asia-Pacific	676	50	0
+Burundi	Africa	27	7	0
+Cambodia	Asia-Pacific	181	14	4
+Cameroon	Africa	465	16	13
+Canada	North America	9900	32	908
+Central African Republic	Africa	622	3	0
+Chad	Africa	1280	9	2
+Chile	South America	756	16	79
+China	Asia-Pacific	9600	1300	1677
+Colombia	South America	1140	45	0
+Costa Rica	Americas	51	4	0
+Croatia	Europe	56	4	28
+Cuba	Americas	110	11	0
+Czech Republic	Europe	78	10	93
+Democratic Republic of Congo	Africa	2340	56	6
+Denmark	Europe	43	5	219
+Dominican Republic	Americas	48	9	0
+Ecuador	South America	272	13	0
+Egypt	Middle East	1000	74	98
+El Salvador	Americas	21	6	15
+Eritrea	Africa	117	4	0
+Estonia	Europe	45	1	9
+Ethiopia	Africa	1130	74	8
+Finland	Europe	338	5	170
+Former Yugoslav Republic of Macedonia	Europe	25	2	4
+France	Europe	543	60	1826
+Gabon	Africa	267	1	0
+Georgia	Europe	69	5	5
+Germany	Europe	357	82	2484
+Ghana	Africa	238	21	8
+Greece	Europe	131	11	182
+Guatemala	Americas	108	13	0
+Guinea	Africa	245	8	4
+Guinea-Bissau	Africa	36	1	0
+Haiti	Americas	27	8	0
+Honduras	Americas	112	7	7
+Hungary	Europe	93	9	81
+India	South Asia	3100	1100	682
+Indonesia	Asia-Pacific	1900	225	256
+Iran	Middle East	1650	70	162
+Iraq	Middle East	438	26	0
+Ireland	Europe	70	4	137
+Israel and Palestinian territories	Middle East	20	3	4
+Italy	Europe	301	57	1494
+Ivory Coast	Africa	322	17	13
+Jamaica	Americas	10	2	7
+Japan	Asia-Pacific	377	127	4755
+Jordan	Middle East	89	5	12
+Kazakhstan	Asia-Pacific	2700	15	0
+Kenya	Africa	582	32	15
+Kuwait	Middle East	17	2	48
+Kyrgyzstan	Asia-Pacific	199	5	0
+Laos	Asia-Pacific	236	5	2
+Latvia	Europe	64	2	0
+Lebanon	Middle East	10	3	18
+Lesotho	Africa	30	1	1
+Liberia	Africa	99	3	0
+Libya	Africa	1770	5	25
+Lithuania	Europe	65	3	19
+Madagascar	Africa	587	18	5
+Malawi	Africa	118	12	2
+Malaysia	Asia-Pacific	329	25	0
+Mali	Africa	1250	13	4
+Mauritania	Middle East	1040	3	1
+Mauritius	Africa	2	1	5
+Mexico	North America	1960	106	720
+Moldova	Europe	33	4	3
+Mongolia	Asia-Pacific	1560	2	0
+Morocco	Middle East	710	31	48
+Mozambique	Africa	812	19	4
+Namibia	Africa	824	2	4
+Nepal	South Asia	147	26	6
+New Zealand	Asia-Pacific	270	4	81
+Nicaragua	Americas	120	5	4
+Niger	Africa	1270	12	2
+Nigeria	Africa	923	130	50
+North Korea	Asia-Pacific	122	22	0
+Norway	Europe	323	4	239
+Oman	Middle East	309	3	23
+Pakistan	South Asia	796	161	96
+Panama	Americas	75	3	0
+Papua New Guinea	Asia-Pacific	462	5	3
+Paraguay	South America	406	6	0
+Peru	South America	1280	28	0
+Poland	Europe	312	38	234
+Portugal	Europe	92	10	150
+Republic of Congo	Africa	342	3	0
+Romania	Europe	238	22	64
+Russia	Europe	17000	141	482
+Rwanda	Africa	26	8	1
+Saudi Arabia	Middle East	2240	25	267
+Senegal	Africa	196	10	7
+Serbia and Montenegro	Europe	102	10	27
+Sierra Leone	Africa	71	5	1
+Singapore	Asia-Pacific	0	4	106
+Slovakia	Europe	49	5	34
+Slovenia	Europe	20	2	29
+Somalia	Africa	637	10	0
+South Africa	Africa	1220	45	164
+South Korea	Asia-Pacific	99	48	673
+Spain	Europe	505	44	935
+Sri Lanka	South Asia	65	19	19
+Sudan	Middle East	2500	35	18
+Swaziland	Africa	17	1	1
+Sweden	Europe	449	8	318
+Switzerland	Europe	41	7	342
+Syria	Middle East	185	18	22
+Taiwan	Asia-Pacific	36	22	302
+Tajikistan	Asia-Pacific	143	6	0
+Tanzania	Africa	945	38	0
+Thailand	Asia-Pacific	513	64	162
+The Gambia	Africa	11	1	0
+The Netherlands	Europe	41	16	516
+The Philippines	Asia-Pacific	300	82	96
+Togo	Africa	56	5	1
+Trinidad and Tobago	Americas	5	1	0
+Tunisia	Middle East	164	10	26
+Turkey	Europe	779	73	274
+Turkmenistan	Asia-Pacific	488	5	0
+Uganda	Africa	241	27	7
+Ukraine	Europe	603	47	60
+United Arab Emirates	Middle East	77	3	0
+United Kingdom	Europe	242	59	2022
+United States of America	North America	9800	295	12213
+Uruguay	South America	176	3	0
+Uzbekistan	Asia-Pacific	447	26	0
+Venezuela	South America	881	26	0
+Vietnam	Asia-Pacific	329	83	45
+Yemen	Middle East	536	21	12
+Zambia	Africa	752	11	4
+Zimbabwe	Africa	390	12	6
